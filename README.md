@@ -1,2 +1,3 @@
 # Git_Python
-Create a repository at lab of Coursera.
+I am editing the README file. Adding some more details about the project description.
+
